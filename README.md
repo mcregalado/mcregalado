@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marianne Christine Regalado</h1>
+<h1 align="center">Hi, I'm Marianne Christine Regalado</h1>
 <h3 align="center">A computer engineer based in the Philippines</h3>
 
 - 🌱 I’m currently learning **Networking**
