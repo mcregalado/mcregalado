@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Marianne Christine Regalado</h1>
 <h3 align="center">A computer engineer based in the Philippines</h3>
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+- 🌱 I’m currently concentrating on being a **developer** learning react with html, css, and javascript. As well as flutter and dart programming language.
 
 - 📫 How to reach me **mcsregalado@gmail.com**
 
