@@ -7,7 +7,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<table>
+<table align="center">
   <tr>
     <td valign="top" width="50%">
       <p align="left">
@@ -52,7 +52,7 @@
         </a>
       </p>
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcregalado&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28"/>
     </td>
   </tr>
