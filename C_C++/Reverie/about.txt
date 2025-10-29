@@ -1,8 +1,0 @@
-The title “Reverie” is actually a concept that I came up with in correlation to what I’m pursuing to be – a game developer. 
-Hence, I took this opportunity to do an inventory system in the form of a game mechanic. The system is coded through the use 
-of an integrated development environment, “CodeBlocks”, while using C++ as the programming language. The player will be asked 
-to create an account of their own and apply that account to log into the main inventory system wherein a type of story will 
-take place and will provide further information to the player. They are able to see the contents that are already given and 
-inside the inventory. As well as they can perform a particular set of actions such as: (a.) Adding a new equipment with its 
-own set of characteristics, (b.) Editing current or previously stored equipment, and (c.) disposing of an equipment if the 
-player desires to remove or delete a certain equipment among the contents in the inventory.
