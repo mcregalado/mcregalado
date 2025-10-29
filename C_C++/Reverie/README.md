@@ -1,6 +1,6 @@
 # Reverie
 
-**Reverie** is a conceptual project inspired by my aspiration to become a **game developer**.  
+**Reverie** is a conceptual project inspired by my aspiration to become a **game developer** back in my freshman years.  
 For this project, I designed an **inventory system** presented as an interactive **game mechanic**, combining storytelling with basic system functionality.
 
 ---
