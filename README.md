@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Marianne Christine Regalado</h1>
-<h3 align="center">A computer engineer based in the Philippines</h3>
+<h1 align="center">Hi!I'm MC!</h1>
+<h3 align="center">A computer engineer-graduate based in the Philippines</h3>
 
 - 🌱 I’m an aspiring **software application developer** knowledgeable with react; html, css, and javascript. As well as flutter and dart programming language for android development. Currently learning python programming concentrating on libraries such as Pandas, NumPy, and Matplotlib; with self-learning of artificial intelligence intergration.
 
