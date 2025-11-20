@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm MC!</h1>
+<h1 align="center">Hi! I'm Marianne!</h1>
 <h3 align="center">A computer engineer-graduate based in the Philippines</h3>
 
 - 🌱 I’m an aspiring **software application developer** knowledgeable with react; html, css, and javascript. As well as flutter and dart programming language for android development. I am currently expanding my skills in Python, with a focus on artificial intelligence integration. Beyond software development, I also have a keen interest in computer networking. As a recent graduate, I am eager to contribute, grow, and make an impact through meaningful projects and opportunities.
